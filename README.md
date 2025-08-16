@@ -1,6 +1,6 @@
-## Django + CNN 图像识别（MNIST 实战示例）
+## Django + CNN 图像识别
 
-本项目参考你提供的课程资料（CHAPTER01-01 / image_classify-01）中 DEMOS 的思路，复刻并整理为可运行示例：
+本项目包含下面可运行示例：
 
 - DNN 基线（MNIST）
 - CNN 训练与评估（MNIST）
